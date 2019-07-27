@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "14 mẹo vặt làm đẹp con gái nên biết"
-date: 2019-07-23 12:26:40
-image: 'https://www.beautyvietnam.vn/wp-content/uploads/2018/06/bi-quyet-lam-dep-cua-phu-nu-the-gioi-15.jpg'
+date: 2019-07-26 12:26:40
+image: 'https://lacongaithattuyet.vn/wp-content/uploads/2017/01/cac-kieu-ve-mong-danh-cho-mong-ngan-5.jpg'
 description: Góc chia sẻ của Siêu Thị Mỹ Phẩm
 introduction:
 

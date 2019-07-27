@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Nhờ ăn sạch mà giảm hẳn 4kg trong 1 tháng"
-date: 2019-07-19 12:26:40
-image: 'https://i.ytimg.com/vi/dXQpAg2lSqY/maxresdefault.jpg'
+date: 2019-07-26 12:26:40
+image: 'https://hellobacsi.com/wp-content/uploads/2019/03/bi-quyet-nau-an-ngon-1-e1553072607999-750x400.jpg'
 description: Góc chia sẻ của Siêu Thị Mỹ Phẩm
 introduction: 
 
@@ -22,63 +22,63 @@ Nhìn thực đơn thì có vẻ cầu kỳ phức tạp nhưng thực tế chí
 
 **Thứ 2**
 
-* Sáng: 1 lát bánh mỳ đen, sữa hạt, 1/2 trái táo
+* Sáng: 1 lát bánh mỳ đen, sữa hạt, 1/2 trái táo;
 
 * Trưa: Ức gà xào ớt chuông, 1 củ khoai, 1/2 cây súp lơ luộc.
 
-* Tối: Salad thăn bò
+* Tối: Salad thăn bò.
 
 
 **Thứ 3**
 
 *Sáng: Pancake yến mạch ăn kèm 1 hộp sữa chua không đường.
 
-* Trưa: Bibimpap gạo lức
+* Trưa: Bibimpap gạo lức;
 
-* Tối: Green smoothie
+* Tối: Green smoothie.
 
 
 **Thứ 4**
 
-* Sáng: Cháo yến mạch
+* Sáng: Cháo yến mạch;
 
-* Trưa: Trứng cuộn, cơm gạo lức, măng tây hấp, 1/2 trái táo
+* Trưa: Trứng cuộn, cơm gạo lức, măng tây hấp, 1/2 trái táo;
 
-* Tối: Salad rau mầm
+* Tối: Salad rau mầm.
 
 
 **Thứ 5**
 
-*Sáng: 1 củ khoai, 1 quả trứng luộc, trái cây
+*Sáng: 1 củ khoai, 1 quả trứng luộc, trái cây;
 
-* Trưa: Cá hồi áp chảo (ướp tiêu, bột nghệ), khoai tây tím, măng tây áp chảo
+* Trưa: Cá hồi áp chảo (ướp tiêu, bột nghệ), khoai tây tím, măng tây áp chảo;
 
-* Tối: 1 hộp sữa chua không đường, hoa quả
+* Tối: 1 hộp sữa chua không đường, hoa quả.
 
 
 **Thứ 6**
 
 * Sáng: Overnight oats (yến mạch để qua đêm), 1 hộp sữa chua không đường, hạt chia thêm topping hoa quả tùy ý.
 
-* Trưa: Ức gà, khoai lang nướng, rau cải chíp hấp
+* Trưa: Ức gà, khoai lang nướng, rau cải chíp hấp;
 
-* Tối: Green smoothie
+* Tối: Green smoothie.
 
 
 **Thứ 7**
 
-* Sáng: Bánh mỳ đen, 1/4 trái bơ, 1/2 trái táo, 1 quả trứng chiên không dầu
+* Sáng: Bánh mỳ đen, 1/4 trái bơ, 1/2 trái táo, 1 quả trứng chiên không dầu;
 
-* Trưa: Khoai tây tím hấp, mực hấp, dưa chuột
+* Trưa: Khoai tây tím hấp, mực hấp, dưa chuột;
 
-* Tối: Sữa chua không đường, hoa quả
+* Tối: Sữa chua không đường, hoa quả.
 
 
 **Chủ nhật**
 
-* Sáng: Yến mạch, topping 1/2 trái chuối, 1 trái kiwi, 2 thanh chocolate
+* Sáng: Yến mạch, topping 1/2 trái chuối, 1 trái kiwi, 2 thanh chocolate;
 
-* Trưa: Khoai lang vàng, tím bỏ lò chiên không dầu. Thịt bò xốt teriyaki kèm nửa trái bơ
+* Trưa: Khoai lang vàng, tím bỏ lò chiên không dầu. Thịt bò xốt teriyaki kèm nửa trái bơ;
 
-* Tối: Salad cá hồi
+* Tối: Salad cá hồi.
 

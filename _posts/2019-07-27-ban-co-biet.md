@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Tẩy da chết sai cách sẽ khiến da càng nhanh lão hóa hơn"
-date: 2019-07-19 12:26:40
-image: 'https://s1.bloganchoi.com/wp-content/uploads/2018/12/da-chet.jpg'
+date: 2019-07-26 12:26:40
+image: 'https://deptuoi30.com/wp-content/uploads/2019/02/dau-hieu-lao-hoa-vung-da-mat-va-cach-khac-phuc-hieu-qua-min.jpg'
 description: Góc chia sẻ của Siêu Thị Mỹ Phẩm
 introduction: 
 
