@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Thấy có hiện tượng ruồi bay trước mắt, người phụ nữ này liền đi khám thì giật mình"
-date: 2019-07-21 12:26:40
-image: 'https://phanolink.com/wp-content/uploads/2018/09/25.jpg'
+date: 2019-07-28 12:26:40
+image: 'https://hellobacsi.com/wp-content/uploads/2019/06/siau-am-mat-750x400.jpg'
 description: Góc chia sẻ của Siêu Thị Mỹ Phẩm
 introduction:
 
@@ -20,11 +20,11 @@ Bác sĩ Trần Thanh Long giải thích: "Ung thư vú có tính chất dễ di
 
 Bệnh võng mạc là căn bệnh thường gặp ở nhiều người, đặc biệt là những người mắc bệnh tiểu đường, cao huyết áp, thoái hóa điểm vàng ở người cao tuổi, tắc tĩnh mạch võng mạc, tắc động mạch trung tâm võng mạc, bong võng mạc. Nếu xuất hiện hiện tượng ruồi bay trước mắt, thị lực suy giảm, thì mọi người nên đến bệnh viện khám".
 
-Ung thư vú di căn là gì?
+**Ung thư vú di căn là gì?**
 
 Ung thư vú di căn có nghĩa là ung thư vú đã ở giai đoạn 4. Ở giai đoạn này, ung thư đã lan đến các bộ phận khác của cơ thể. Nó thường lây lan đến cả phổi, gan, xương và não.
 
-Làm thế nào ung thư lây lan hoặc di căn?
+**Làm thế nào ung thư lây lan hoặc di căn?**
 
 Sự lây lan của bệnh ung thư thường xảy ra thông qua một hoặc nhiều bước sau:
 
@@ -38,7 +38,7 @@ Sự lây lan của bệnh ung thư thường xảy ra thông qua một hoặc n
 
 Dưới đây là một số triệu chứng khác nhau tùy theo vị trí thường gắn liền với di căn ung thư vú. 
 
-Di căn trong xương có thể gây ra:
+**Di căn trong xương có thể gây ra:**
 
 - Đau nặng, ngày càng tăng dần
 

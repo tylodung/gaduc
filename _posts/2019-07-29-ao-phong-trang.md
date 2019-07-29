@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Áo phông trắng nhưng liệu khi mặc lên, mọi người có phân biệt được cái nào đắt cái nào rẻ "
-date: 2019-07-21 12:26:40
-image: 'https://www.blogsudo.com/wp-content/uploads/2017/05/ellevn-ao-thun-trang-490x367-1280x720.jpg'
+date: 2019-07-28 12:26:40
+image: 'https://lilyvietnam.vn/wp-content/uploads/2018/04/vay-maxi-dai-mac-ao-gi.jpg'
 description: Góc chia sẻ của Siêu Thị Mỹ Phẩm
 introduction:
 
