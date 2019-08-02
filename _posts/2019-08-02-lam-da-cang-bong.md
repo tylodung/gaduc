@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Làn da căng bóng như gương trong truyền thuyết hoàn toàn là khả thi"
-date: 2019-07-19 12:26:40
-image: 'https://i.ytimg.com/vi/noImjly7VPY/maxresdefault.jpg'
+date: 2019-08-01 12:26:40
+image: 'https://hellobacsi.com/wp-content/uploads/2019/03/da-cang-bong-1-1-e1553155858749-750x400.jpg'
 description: Góc chia sẻ của Siêu Thị Mỹ Phẩm
 introduction: 
 

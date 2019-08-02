@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Thói quen này mỗi sáng dễ khiến da bạn bị lão hóa và bắt nắng hơn"
-date: 2019-07-19 12:26:40
-image: 'https://i2.wp.com/www.vuivivu.com/wp-content/uploads/2019/04/9-C%C3%A1ch-Ng%C4%83n-Ng%E1%BB%ABa-S%E1%BB%B1-L%C3%A3o-H%C3%B3a-Da-Di%E1%BB%85n-Ra-M%E1%BB%97i-Ng%C3%A0y-1.jpg?fit=1280%2C720&ssl=1'
+date: 2019-08-01 12:26:40
+image: 'https://hellobacsi.com/wp-content/uploads/2019/03/sai-lam-trong-cham-soc-da-mat_452795515-750x400.jpg'
 description: Góc chia sẻ của Siêu Thị Mỹ Phẩm
 introduction: 
 
